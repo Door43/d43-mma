@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mma:home|Door43 (mma)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mma|d43-mma repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mma/archive/master.zip|d43-mma.zip]]
+
+**Recent Changes**
+{{changes>ns = mma}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mma|Ethnologue data]]
+
